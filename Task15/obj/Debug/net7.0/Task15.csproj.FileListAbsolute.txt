@@ -1,0 +1,5 @@
+C:\Users\Александр Булгаков\Desktop\Homework2\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+C:\Users\Александр Булгаков\Desktop\Homework2\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр Булгаков\Desktop\Homework2\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\Users\Александр Булгаков\Desktop\Homework2\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\Users\Александр Булгаков\Desktop\Homework2\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
